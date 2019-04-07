@@ -11,7 +11,7 @@ There are three different type of interactive views which are Time brush (on the
 
 ## Data Source
 
-The data source of this project is from data.world – INC 5000 2017, which includes information of fastest growing private companies from 2007 to 2017. [[Downloadable CSV\]](https://data.world/aurielle/inc-5000-10-years). However, the original dataset is too big (It contains **34718** items) to making the whole visualization slow, thus I only use **the first 8000 items** for the data visualization. I attched in gh-pages with name: data.json.
+The data source of this project is from data.world – INC 5000 2017, which includes information of fastest growing private companies from 2007 to 2017. [[Downloadable CSV\]](https://data.world/aurielle/inc-5000-10-years). However, the original dataset is too big (It contains **34718** items) to making the whole visualization fluent, thus I only use **the first 8000 items** for the data visualization. I attched in gh-pages with name: data.json.
 
 Screenshot:
 
