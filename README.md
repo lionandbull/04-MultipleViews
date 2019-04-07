@@ -60,6 +60,7 @@ From this visualization, we can discover the dataset more efficiently and throug
 - We can know which industry got the most revenue or what are the top 3 industries which earned most revenue in a given year or among years. Based on this, we can learn what types of companies are more profitable and growing rapidly.
 - We also can know which city or what cities has/have more profitable companies, and what region company wants to locate.
 - We also can know what's the total revenue of a given year or years of different industries.
+- With the Reset default button, user can back to default data to start a new round.
 
 ## Technical Achievements
 
@@ -72,4 +73,4 @@ From this visualization, we can discover the dataset more efficiently and throug
 
 ### Website (HTML, React, JS, Bootstrap)
 
-Use this combination to make a simple, fast and interactive website.
+Use this combination to make a simple, fast and interactive website. The bootstrap helps me to improve the website appearance.
